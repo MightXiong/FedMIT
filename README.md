@@ -15,4 +15,4 @@ verified in two different cross-task scenarios.
 
 ![image](https://github.com/user-attachments/assets/7c755511-edef-4d6b-a716-f7aac18c26cd)
 
-The core code fine-tuning code has been released for everyone to refer to and learn from
+The core code fine-tuning code has been released for everyone to refer to and learn from.
