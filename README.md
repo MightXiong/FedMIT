@@ -1,4 +1,4 @@
-# FedMIT
+# Pilot！
 
 In this paper, we explore a novel federated multimodal instruction tuning task(FedMIT), which is significant for collaboratively fine-tuning MLLMs on different types of multimodal instruction data on distributed devices. To solve the
 new task, we propose a federated multimodal instruction tuning framework(Pilot). Our framework integrates two stages of
